@@ -4,4 +4,5 @@ This project is to analyze customer churn for a telecommunications company by lo
 This directory includes:
 - 📁 **Download the Power BI report (.pbix)**  
 [Download here](telco-churn.pbix)
-- A dashboard screenshot 
+- Dashboard (both screenshot and PDF file)
+- The dataset used to create the dashboard
