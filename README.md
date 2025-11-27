@@ -1,5 +1,5 @@
 # powerbi-portfolio
-Hi, I'm Anh Nguyen and this repo showcases some of my PowerBI dashboards.
+Hi, I'm Anh Nguyen and this repo showcases some of my Power BI dashboards.
 
 ## Projects
 
