@@ -7,7 +7,7 @@ Generally, customers were reasonably satisfied with the call center performance,
 
 The charts on the right demonstrate the resolution rates as well as the average satisfaction rates by agent. The agents' performances are comparable, showing the center's consistent performance.
 
-This directory includes (need to be fixed):
-- Churn Analysis.pbix
+This directory includes:
+- Call Center Performance Analysis.pbix
 - Dashboard (both screenshot and PDF file)
 - The dataset used to create the dashboard
